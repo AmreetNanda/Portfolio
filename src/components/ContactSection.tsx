@@ -40,7 +40,7 @@ const ContactSection = () => {
       <div className="max-w-6xl mx-auto">
         <h2 className="section-title mb-6">Contact</h2>
         
-        <p className="text-muted-foreground mb-12 max-w-3xl">
+        <p className="text-muted-foreground mb-8 max-w-6xl">
           Data is valuable only when it's understood the right way. I specialize in selecting the right tools and building data solutions that empower teams to make smarter, data-driven decisions. Let's connect and turn insights into impact.
         </p>
 
